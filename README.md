@@ -5,9 +5,7 @@ Built by https://www.blackbox.ai
 
 ```markdown
 # Victoria Incident Management PWA
-
-## Project Overview
-The **Victoria Incident Management PWA** is a Progressive Web Application designed to streamline workplace incident management specifically in Victoria, Australia. This application aims to provide a user-friendly interface for reporting, tracking, and managing workplace incidents, ensuring compliance with local regulations and enhancing workplace safety.
+The **Victoria Incident Management PWA** is a Progressive Web Application designed to streamline incident management processes. It offers a user-friendly interface for reporting, tracking, and managing incidents, ensuring compliance with regulations and enhancing workplace safety.ng, and managing workplace incidents, ensuring compliance with local regulations and enhancing workplace safety.
 
 ## Installation
 To get started with the project, follow these installation steps:
@@ -37,12 +35,10 @@ Once the server is running, navigate to [http://localhost:3000](http://localhost
 ## Features
 - **Incident Reporting**: Quickly and easily report incidents, including all necessary details.
 - **User-Friendly Interface**: Designed with user experience in mind.
-- **PWA Capabilities**: The app can work offline and can be added to the home screen.
-- **Incident Tracking**: Track the status of reported incidents in real time.
-- **Regulatory Compliance**: Ensures all reports meet local reporting requirements.
-
-## Dependencies
-Here's a list of the main dependencies used in the project:
+-  Designed with user experience in mind, ensuring ease of use.
+- **PWA Capabilities**: The app can work offline and be added to the home screen for quick access.
+- **Incident Tracking**: Track the status of reported incidents in real-time.
+- **Regulatory Compliance**: Ensures all reports meet local reporting requirements.encie
 
 - **React**: A JavaScript library for building user interfaces.
 - **@mui/material**: Material-UI components for building robust user interface designs.
